@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85751b9bb1f9248479936c30ebe47282, type: 3}
+  m_Name: Rags
+  m_EditorClassIdentifier: 
+  itemName: "\uB204\uB354\uAE30"
+  itemDesc: "\uCC38\uB098\uBB34 \uC870\uAC01\uC5D0\uC11C \uCD94\uCD9C\uD55C \uB204\uB354\uAE30"
+  itemType: 10
+  itemImage: {fileID: 21300000, guid: 0c52b44113e098941bd61a55af4745b1, type: 3}
+  itemPrefab: {fileID: 4859253105816991458, guid: 335016012d48bd5469909ab716a8723c, type: 3}
+  WeaponType: 
