@@ -1,5 +1,4 @@
 use ksh;
-use pubs;
 
 create table player
 (
