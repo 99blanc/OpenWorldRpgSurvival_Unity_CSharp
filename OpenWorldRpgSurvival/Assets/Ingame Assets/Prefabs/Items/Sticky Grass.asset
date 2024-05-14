@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85751b9bb1f9248479936c30ebe47282, type: 3}
+  m_Name: Sticky Grass
+  m_EditorClassIdentifier: 
+  itemName: "\uB048\uB048\uC774 \uD480"
+  itemDesc: "\uD574\uACE8\uC5D0\uAC8C\uC11C \uB098\uC624\uB294 \uB048\uB048\uC774
+    \uD480"
+  itemType: 10
+  itemImage: {fileID: 21300000, guid: 3676a0b185daeb54fb257f700ba7ead4, type: 3}
+  itemPrefab: {fileID: 6487087790398762726, guid: 09b836f6eee7b194ea990cdbf188a438, type: 3}
+  WeaponType: 
